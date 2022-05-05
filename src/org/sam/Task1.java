@@ -7,6 +7,7 @@ public class Task1 {
 	
 
 	public static int a=10;
+	public static int b=30;
 }
 
 
